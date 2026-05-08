@@ -10,6 +10,10 @@ Skrip ini dirancang untuk melakukan pengujian penetrasi otomatis pada platform M
 *   **Path Discovery**: Mencoba berbagai lokasi folder media Magento untuk menemukan shell yang berhasil diunggah.
 *   **Interactive Shell**: Mode interaktif untuk menjalankan perintah sistem langsung setelah shell berhasil dideploy.
 
+## Poc (Proof of Concept)
+<img width="1128" height="402" alt="image" src="https://github.com/user-attachments/assets/29bd737b-d83e-4e63-a433-9ec2b2d009cd" />
+
+
 ## Persyaratan
 
 Pastikan Anda memiliki Python 3.x dan pustaka `requests` terinstal.
