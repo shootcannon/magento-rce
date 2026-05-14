@@ -1,5 +1,11 @@
 # Magento RCE Web Shell Uploader
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Wg2YMIyZBd4">
+    <img src="https://img.youtube.com/vi/Wg2YMIyZBd4/maxresdefault.jpg" width="700">
+  </a>
+</p>
+
 Skrip ini dirancang untuk melakukan pengujian penetrasi otomatis pada platform Magento yang rentan terhadap celah keamanan *file upload* melalui REST API dan GraphQL. Skrip ini secara otomatis akan mencoba mengunggah *web shell* yang disisipkan di dalam file PNG valid untuk melewati validasi sisi server.
 
 ## Fitur Utama
